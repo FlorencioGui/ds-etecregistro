@@ -1,0 +1,10 @@
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\bin\Debug\Atividade4Revisao.exe.config
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\bin\Debug\Atividade4Revisao.exe
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\bin\Debug\Atividade4Revisao.pdb
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\obj\Debug\Atividade4Revisao.csproj.AssemblyReference.cache
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\obj\Debug\Atividade4Revisao.Form1.resources
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\obj\Debug\Atividade4Revisao.Properties.Resources.resources
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\obj\Debug\Atividade4Revisao.csproj.GenerateResource.cache
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\obj\Debug\Atividade4Revisao.csproj.CoreCompileInputs.cache
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\obj\Debug\Atividade4Revisao.exe
+D:\AULAS\2ANO\DS\Atividade4Revisao\Atividade4Revisao\obj\Debug\Atividade4Revisao.pdb

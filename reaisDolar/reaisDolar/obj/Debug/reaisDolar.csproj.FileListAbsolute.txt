@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\bin\Debug\reaisDolar.exe.config
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\bin\Debug\reaisDolar.exe
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\bin\Debug\reaisDolar.pdb
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\obj\Debug\reaisDolar.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\obj\Debug\reaisDolar.Form1.resources
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\obj\Debug\reaisDolar.Properties.Resources.resources
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\obj\Debug\reaisDolar.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\obj\Debug\reaisDolar.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\obj\Debug\reaisDolar.exe
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\obj\Debug\reaisDolar.pdb
+E:\AULAS\2ANO\DS\reaisDolar\reaisDolar\obj\Debug\reaisDolar.exe.config

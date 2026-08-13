@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\bin\Debug\salarioRevendedoraVendedor.exe.config
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\bin\Debug\salarioRevendedoraVendedor.exe
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\bin\Debug\salarioRevendedoraVendedor.pdb
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\obj\Debug\salarioRevendedoraVendedor.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\obj\Debug\salarioRevendedoraVendedor.Form1.resources
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\obj\Debug\salarioRevendedoraVendedor.Properties.Resources.resources
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\obj\Debug\salarioRevendedoraVendedor.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\obj\Debug\salarioRevendedoraVendedor.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\obj\Debug\salarioRevendedoraVendedor.exe
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\obj\Debug\salarioRevendedoraVendedor.pdb
+E:\AULAS\2ANO\DS\ProvaDs\salarioRevendedoraVendedor\salarioRevendedoraVendedor\obj\Debug\salarioRevendedoraVendedor.exe.config

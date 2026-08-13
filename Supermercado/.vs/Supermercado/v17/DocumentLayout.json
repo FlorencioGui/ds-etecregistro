@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AULAS\\2ANO\\DS\\Supermercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD498C5A-C467-46F1-93EA-8528985D02D4}|Supermercado\\Supermercado.csproj|e:\\aulas\\2ano\\ds\\supermercado\\supermercado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD498C5A-C467-46F1-93EA-8528985D02D4}|Supermercado\\Supermercado.csproj|solutionrelative:supermercado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD498C5A-C467-46F1-93EA-8528985D02D4}|Supermercado\\Supermercado.csproj|e:\\aulas\\2ano\\ds\\supermercado\\supermercado\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD498C5A-C467-46F1-93EA-8528985D02D4}|Supermercado\\Supermercado.csproj|solutionrelative:supermercado\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD498C5A-C467-46F1-93EA-8528985D02D4}|Supermercado\\Supermercado.csproj|e:\\aulas\\2ano\\ds\\supermercado\\supermercado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD498C5A-C467-46F1-93EA-8528985D02D4}|Supermercado\\Supermercado.csproj|solutionrelative:supermercado\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\Supermercado\\Supermercado\\Form1.cs",
+              "RelativeDocumentMoniker": "Supermercado\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\Supermercado\\Supermercado\\Form1.cs",
+              "RelativeToolTip": "Supermercado\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:45:03.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculo.cs",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\Supermercado\\Supermercado\\calculo.cs",
+              "RelativeDocumentMoniker": "Supermercado\\calculo.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\Supermercado\\Supermercado\\calculo.cs",
+              "RelativeToolTip": "Supermercado\\calculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:45:27.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\Supermercado\\Supermercado\\Form1.cs",
+              "RelativeDocumentMoniker": "Supermercado\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\Supermercado\\Supermercado\\Form1.cs [Design]",
+              "RelativeToolTip": "Supermercado\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:40:10.121Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

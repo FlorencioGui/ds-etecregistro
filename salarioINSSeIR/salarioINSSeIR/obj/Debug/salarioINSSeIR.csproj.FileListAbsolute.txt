@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\bin\Debug\salarioINSSeIR.exe.config
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\bin\Debug\salarioINSSeIR.exe
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\bin\Debug\salarioINSSeIR.pdb
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\obj\Debug\salarioINSSeIR.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\obj\Debug\salarioINSSeIR.Form1.resources
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\obj\Debug\salarioINSSeIR.Properties.Resources.resources
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\obj\Debug\salarioINSSeIR.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\obj\Debug\salarioINSSeIR.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\obj\Debug\salarioINSSeIR.exe
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\obj\Debug\salarioINSSeIR.pdb
+E:\AULAS\2ANO\DS\salarioINSSeIR\salarioINSSeIR\obj\Debug\salarioINSSeIR.exe.config

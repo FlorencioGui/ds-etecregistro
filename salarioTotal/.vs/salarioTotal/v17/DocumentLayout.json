@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AULAS\\2ANO\\DS\\salarioTotal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBE7EDF-7356-4DF8-A7F1-EDFA739F87BB}|salarioTotal\\salarioTotal.csproj|e:\\aulas\\2ano\\ds\\salariototal\\salariototal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBBE7EDF-7356-4DF8-A7F1-EDFA739F87BB}|salarioTotal\\salarioTotal.csproj|solutionrelative:salariototal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBE7EDF-7356-4DF8-A7F1-EDFA739F87BB}|salarioTotal\\salarioTotal.csproj|E:\\AULAS\\2ANO\\DS\\salarioTotal\\salariototal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBE7EDF-7356-4DF8-A7F1-EDFA739F87BB}|salarioTotal\\salarioTotal.csproj|solutionrelative:salariototal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\salarioTotal\\salarioTotal\\Form1.cs",
+              "RelativeDocumentMoniker": "salarioTotal\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\salarioTotal\\salarioTotal\\Form1.cs",
+              "RelativeToolTip": "salarioTotal\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T13:38:13.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\salarioTotal\\salarioTotal\\Form1.cs",
+              "RelativeDocumentMoniker": "salarioTotal\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\salarioTotal\\salarioTotal\\Form1.cs [Design]",
+              "RelativeToolTip": "salarioTotal\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T13:30:17.735Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

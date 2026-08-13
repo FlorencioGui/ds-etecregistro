@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\bin\Debug\exemplo_OO_get-set.exe.config
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\bin\Debug\exemplo_OO_get-set.exe
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\bin\Debug\exemplo_OO_get-set.pdb
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\obj\Debug\exemplo_OO_get-set.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\obj\Debug\exemplo_OO_get_set.Form1.resources
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\obj\Debug\exemplo_OO_get_set.Properties.Resources.resources
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\obj\Debug\exemplo_OO_get-set.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\obj\Debug\exemplo_OO_get-set.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\obj\Debug\exemplo_OO_get-set.exe
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\obj\Debug\exemplo_OO_get-set.pdb
+E:\AULAS\2ANO\DS\exemplo_OO_get-set\exemplo_OO_get-set\obj\Debug\exemplo_OO_get-set.exe.config

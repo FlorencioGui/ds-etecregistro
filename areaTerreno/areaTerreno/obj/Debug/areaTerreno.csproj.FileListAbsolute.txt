@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\bin\Debug\areaTerreno.exe.config
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\bin\Debug\areaTerreno.exe
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\bin\Debug\areaTerreno.pdb
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\obj\Debug\areaTerreno.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\obj\Debug\areaTerreno.Form1.resources
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\obj\Debug\areaTerreno.Properties.Resources.resources
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\obj\Debug\areaTerreno.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\obj\Debug\areaTerreno.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\obj\Debug\areaTerreno.exe
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\obj\Debug\areaTerreno.pdb
+E:\AULAS\2ANO\DS\areaTerreno\areaTerreno\obj\Debug\areaTerreno.exe.config

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\exemplo_heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|solutionrelative:exemplo_heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\exemplo_heranca\\pessoa_fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|solutionrelative:exemplo_heranca\\pessoa_fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\exemplo_heranca\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|solutionrelative:exemplo_heranca\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|d:\\aulas\\2ano\\ds\\exemplo_heranca\\exemplo_heranca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|solutionrelative:exemplo_heranca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\exemplo_heranca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A13D5D53-BC0C-45E0-BBC2-393C3DED1984}|Exemplo_Heranca\\Exemplo_Heranca.csproj|solutionrelative:exemplo_heranca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\Form1.cs",
+              "RelativeDocumentMoniker": "Exemplo_Heranca\\Form1.cs",
+              "ToolTip": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\Form1.cs",
+              "RelativeToolTip": "Exemplo_Heranca\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T14:04:15.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "funcionario.cs",
+              "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\funcionario.cs",
+              "RelativeDocumentMoniker": "Exemplo_Heranca\\funcionario.cs",
+              "ToolTip": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\funcionario.cs",
+              "RelativeToolTip": "Exemplo_Heranca\\funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T13:56:00.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pessoa_fisica.cs",
+              "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\pessoa_fisica.cs",
+              "RelativeDocumentMoniker": "Exemplo_Heranca\\pessoa_fisica.cs",
+              "ToolTip": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\pessoa_fisica.cs",
+              "RelativeToolTip": "Exemplo_Heranca\\pessoa_fisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T13:52:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pessoa.cs",
+              "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\pessoa.cs",
+              "RelativeDocumentMoniker": "Exemplo_Heranca\\pessoa.cs",
+              "ToolTip": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\pessoa.cs",
+              "RelativeToolTip": "Exemplo_Heranca\\pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T13:49:35.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\Form1.cs",
+              "RelativeDocumentMoniker": "Exemplo_Heranca\\Form1.cs",
+              "ToolTip": "D:\\AULAS\\2ANO\\DS\\Exemplo_Heranca\\Exemplo_Heranca\\Form1.cs [Design]",
+              "RelativeToolTip": "Exemplo_Heranca\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T13:40:48.177Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

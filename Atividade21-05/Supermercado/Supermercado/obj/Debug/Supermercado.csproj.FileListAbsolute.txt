@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\obj\Debug\Supermercado.Form1.resources
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\obj\Debug\Supermercado.Properties.Resources.resources
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\obj\Debug\Supermercado.exe
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\obj\Debug\Supermercado.pdb
+E:\AULAS\2ANO\DS\Supermercado\Supermercado\obj\Debug\Supermercado.exe.config

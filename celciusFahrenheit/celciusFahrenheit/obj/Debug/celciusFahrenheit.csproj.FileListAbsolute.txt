@@ -1,0 +1,10 @@
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\bin\Debug\celciusFahrenheit.exe.config
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\bin\Debug\celciusFahrenheit.exe
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\bin\Debug\celciusFahrenheit.pdb
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\obj\Debug\celciusFahrenheit.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\obj\Debug\celciusFahrenheit.Form1.resources
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\obj\Debug\celciusFahrenheit.Properties.Resources.resources
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\obj\Debug\celciusFahrenheit.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\obj\Debug\celciusFahrenheit.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\obj\Debug\celciusFahrenheit.exe
+E:\AULAS\2ANO\DS\celciusFahrenheit\celciusFahrenheit\obj\Debug\celciusFahrenheit.pdb

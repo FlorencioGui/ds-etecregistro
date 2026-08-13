@@ -1,0 +1,10 @@
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\bin\Debug\anosParaDias.exe.config
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\bin\Debug\anosParaDias.exe
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\bin\Debug\anosParaDias.pdb
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\obj\Debug\anosParaDias.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\obj\Debug\anosParaDias.Form1.resources
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\obj\Debug\anosParaDias.Properties.Resources.resources
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\obj\Debug\anosParaDias.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\obj\Debug\anosParaDias.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\obj\Debug\anosParaDias.exe
+E:\AULAS\2ANO\DS\anosParaDias\anosParaDias\obj\Debug\anosParaDias.pdb

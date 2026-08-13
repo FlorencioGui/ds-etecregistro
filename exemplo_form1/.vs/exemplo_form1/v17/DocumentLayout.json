@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AULAS\\2ANO\\DS\\exemplo_form1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97061C38-7F7A-4F74-85F8-D4139824E239}|exemplo_form1\\exemplo_form1.csproj|e:\\aulas\\2ano\\ds\\exemplo_form1\\exemplo_form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97061C38-7F7A-4F74-85F8-D4139824E239}|exemplo_form1\\exemplo_form1.csproj|solutionrelative:exemplo_form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97061C38-7F7A-4F74-85F8-D4139824E239}|exemplo_form1\\exemplo_form1.csproj|E:\\AULAS\\2ANO\\DS\\exemplo_form1\\exemplo_form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97061C38-7F7A-4F74-85F8-D4139824E239}|exemplo_form1\\exemplo_form1.csproj|solutionrelative:exemplo_form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\exemplo_form1\\exemplo_form1\\Form1.cs",
+              "RelativeDocumentMoniker": "exemplo_form1\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\exemplo_form1\\exemplo_form1\\Form1.cs",
+              "RelativeToolTip": "exemplo_form1\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:42:03.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\exemplo_form1\\exemplo_form1\\Form1.cs",
+              "RelativeDocumentMoniker": "exemplo_form1\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\exemplo_form1\\exemplo_form1\\Form1.cs [Design]",
+              "RelativeToolTip": "exemplo_form1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:33:41.41Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

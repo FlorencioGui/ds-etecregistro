@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\obj\Debug\EleicaoForm.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\obj\Debug\EleicaoForm.Form1.resources
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\obj\Debug\EleicaoForm.Properties.Resources.resources
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\obj\Debug\EleicaoForm.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\obj\Debug\EleicaoForm.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\bin\Debug\EleicaoForm.exe.config
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\bin\Debug\EleicaoForm.exe
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\bin\Debug\EleicaoForm.pdb
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\obj\Debug\EleicaoForm.exe
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\obj\Debug\EleicaoForm.pdb
+E:\AULAS\2ANO\DS\EleicaoForm\EleicaoForm\obj\Debug\EleicaoForm.exe.config

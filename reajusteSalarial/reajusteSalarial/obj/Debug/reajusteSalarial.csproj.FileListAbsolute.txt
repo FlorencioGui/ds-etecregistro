@@ -1,0 +1,10 @@
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\bin\Debug\reajusteSalarial.exe.config
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\bin\Debug\reajusteSalarial.exe
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\bin\Debug\reajusteSalarial.pdb
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.Form1.resources
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.Properties.Resources.resources
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.exe
+E:\AULAS\2ANO\DS\reajusteSalarial\reajusteSalarial\obj\Debug\reajusteSalarial.pdb

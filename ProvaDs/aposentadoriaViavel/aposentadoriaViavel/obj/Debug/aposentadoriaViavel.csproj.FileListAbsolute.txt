@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\bin\Debug\aposentadoriaViavel.exe.config
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\bin\Debug\aposentadoriaViavel.exe
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\bin\Debug\aposentadoriaViavel.pdb
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\obj\Debug\aposentadoriaViavel.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\obj\Debug\aposentadoriaViavel.Form1.resources
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\obj\Debug\aposentadoriaViavel.Properties.Resources.resources
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\obj\Debug\aposentadoriaViavel.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\obj\Debug\aposentadoriaViavel.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\obj\Debug\aposentadoriaViavel.exe
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\obj\Debug\aposentadoriaViavel.pdb
+E:\AULAS\2ANO\DS\ProvaDs\aposentadoriaViavel\aposentadoriaViavel\obj\Debug\aposentadoriaViavel.exe.config

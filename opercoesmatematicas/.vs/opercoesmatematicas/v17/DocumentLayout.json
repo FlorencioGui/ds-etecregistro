@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AULAS\\2ANO\\DS\\opercoesmatematicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E39CB13-FE5F-41D9-9294-26D33657B5E6}|opercoesmatematicas\\opercoesmatematicas.csproj|E:\\AULAS\\2ANO\\DS\\opercoesmatematicas\\opercoesmatematicas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E39CB13-FE5F-41D9-9294-26D33657B5E6}|opercoesmatematicas\\opercoesmatematicas.csproj|solutionrelative:opercoesmatematicas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E39CB13-FE5F-41D9-9294-26D33657B5E6}|opercoesmatematicas\\opercoesmatematicas.csproj|e:\\aulas\\2ano\\ds\\opercoesmatematicas\\opercoesmatematicas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E39CB13-FE5F-41D9-9294-26D33657B5E6}|opercoesmatematicas\\opercoesmatematicas.csproj|solutionrelative:opercoesmatematicas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\opercoesmatematicas\\opercoesmatematicas\\Form1.cs",
+              "RelativeDocumentMoniker": "opercoesmatematicas\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\opercoesmatematicas\\opercoesmatematicas\\Form1.cs",
+              "RelativeToolTip": "opercoesmatematicas\\Form1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA+wEwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:41:03.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\opercoesmatematicas\\opercoesmatematicas\\Form1.cs",
+              "RelativeDocumentMoniker": "opercoesmatematicas\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\opercoesmatematicas\\opercoesmatematicas\\Form1.cs [Design]",
+              "RelativeToolTip": "opercoesmatematicas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:39:39.667Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

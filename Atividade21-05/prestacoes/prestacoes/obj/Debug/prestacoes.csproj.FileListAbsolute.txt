@@ -1,0 +1,10 @@
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\bin\Debug\prestacoes.exe.config
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\bin\Debug\prestacoes.exe
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\bin\Debug\prestacoes.pdb
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\obj\Debug\prestacoes.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\obj\Debug\prestacoes.Form1.resources
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\obj\Debug\prestacoes.Properties.Resources.resources
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\obj\Debug\prestacoes.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\obj\Debug\prestacoes.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\obj\Debug\prestacoes.exe
+E:\AULAS\2ANO\DS\prestacoes\prestacoes\obj\Debug\prestacoes.pdb

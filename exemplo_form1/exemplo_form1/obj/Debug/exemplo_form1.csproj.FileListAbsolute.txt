@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\bin\Debug\exemplo_form1.exe.config
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\bin\Debug\exemplo_form1.exe
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\bin\Debug\exemplo_form1.pdb
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\obj\Debug\exemplo_form1.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\obj\Debug\exemplo_form1.Form1.resources
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\obj\Debug\exemplo_form1.Properties.Resources.resources
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\obj\Debug\exemplo_form1.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\obj\Debug\exemplo_form1.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\obj\Debug\exemplo_form1.exe
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\obj\Debug\exemplo_form1.pdb
+E:\AULAS\2ANO\DS\exemplo_form1\exemplo_form1\obj\Debug\exemplo_form1.exe.config

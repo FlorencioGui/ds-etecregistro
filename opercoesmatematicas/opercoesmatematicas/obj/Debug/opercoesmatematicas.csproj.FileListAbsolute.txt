@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\bin\Debug\opercoesmatematicas.exe.config
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\bin\Debug\opercoesmatematicas.exe
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\bin\Debug\opercoesmatematicas.pdb
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\obj\Debug\opercoesmatematicas.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\obj\Debug\opercoesmatematicas.Form1.resources
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\obj\Debug\opercoesmatematicas.Properties.Resources.resources
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\obj\Debug\opercoesmatematicas.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\obj\Debug\opercoesmatematicas.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\obj\Debug\opercoesmatematicas.exe
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\obj\Debug\opercoesmatematicas.pdb
+E:\AULAS\2ANO\DS\opercoesmatematicas\opercoesmatematicas\obj\Debug\opercoesmatematicas.exe.config

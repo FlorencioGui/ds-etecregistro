@@ -1,0 +1,14 @@
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\MediaPonderada.AssemblyInfoInputs.cache
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\MediaPonderada.AssemblyInfo.cs
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\MediaPonderada.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\bin\Debug\net8.0\MediaPonderada.exe
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\bin\Debug\net8.0\MediaPonderada.deps.json
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\bin\Debug\net8.0\MediaPonderada.runtimeconfig.json
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\bin\Debug\net8.0\MediaPonderada.dll
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\bin\Debug\net8.0\MediaPonderada.pdb
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\MediaPonderada.dll
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\refint\MediaPonderada.dll
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\MediaPonderada.pdb
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\MediaPonderada.genruntimeconfig.cache
+E:\AULAS\2ANO\DS\MediaPonderada\MediaPonderada\obj\Debug\net8.0\ref\MediaPonderada.dll

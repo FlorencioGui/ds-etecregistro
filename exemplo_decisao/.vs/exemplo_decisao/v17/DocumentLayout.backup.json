@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AULAS\\2ANO\\DS\\exemplo_decisao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB20D45-3781-4228-B5F4-93D6D3104CA6}|exemplo_decisao\\exemplo_decisao.csproj|e:\\aulas\\2ano\\ds\\exemplo_decisao\\exemplo_decisao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB20D45-3781-4228-B5F4-93D6D3104CA6}|exemplo_decisao\\exemplo_decisao.csproj|solutionrelative:exemplo_decisao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB20D45-3781-4228-B5F4-93D6D3104CA6}|exemplo_decisao\\exemplo_decisao.csproj|E:\\AULAS\\2ANO\\DS\\exemplo_decisao\\exemplo_decisao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB20D45-3781-4228-B5F4-93D6D3104CA6}|exemplo_decisao\\exemplo_decisao.csproj|solutionrelative:exemplo_decisao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\exemplo_decisao\\exemplo_decisao\\Form1.cs",
+              "RelativeDocumentMoniker": "exemplo_decisao\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\exemplo_decisao\\exemplo_decisao\\Form1.cs",
+              "RelativeToolTip": "exemplo_decisao\\Form1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv28AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:54:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\exemplo_decisao\\exemplo_decisao\\Form1.cs",
+              "RelativeDocumentMoniker": "exemplo_decisao\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\exemplo_decisao\\exemplo_decisao\\Form1.cs [Design]",
+              "RelativeToolTip": "exemplo_decisao\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:51:47.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

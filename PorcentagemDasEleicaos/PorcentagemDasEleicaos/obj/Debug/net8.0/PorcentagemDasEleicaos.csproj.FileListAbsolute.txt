@@ -1,0 +1,14 @@
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\bin\Debug\net8.0\PorcentagemDasEleicaos.exe
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\bin\Debug\net8.0\PorcentagemDasEleicaos.deps.json
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\bin\Debug\net8.0\PorcentagemDasEleicaos.runtimeconfig.json
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\bin\Debug\net8.0\PorcentagemDasEleicaos.dll
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\bin\Debug\net8.0\PorcentagemDasEleicaos.pdb
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\PorcentagemDasEleicaos.GeneratedMSBuildEditorConfig.editorconfig
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\PorcentagemDasEleicaos.AssemblyInfoInputs.cache
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\PorcentagemDasEleicaos.AssemblyInfo.cs
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\PorcentagemDasEleicaos.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\PorcentagemDasEleicaos.dll
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\refint\PorcentagemDasEleicaos.dll
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\PorcentagemDasEleicaos.pdb
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\PorcentagemDasEleicaos.genruntimeconfig.cache
+E:\AULAS\2ANO\DS\PorcentagemDasEleicaos\PorcentagemDasEleicaos\obj\Debug\net8.0\ref\PorcentagemDasEleicaos.dll

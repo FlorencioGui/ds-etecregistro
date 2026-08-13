@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AULAS\\2ANO\\DS\\reajusteSalarial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAEBAE-334C-4906-A86C-A53F4CDF3DFE}|reajusteSalarial\\reajusteSalarial.csproj|e:\\aulas\\2ano\\ds\\reajustesalarial\\reajustesalarial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAEBAE-334C-4906-A86C-A53F4CDF3DFE}|reajusteSalarial\\reajusteSalarial.csproj|solutionrelative:reajustesalarial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAEBAE-334C-4906-A86C-A53F4CDF3DFE}|reajusteSalarial\\reajusteSalarial.csproj|e:\\aulas\\2ano\\ds\\reajustesalarial\\reajustesalarial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CFAEBAE-334C-4906-A86C-A53F4CDF3DFE}|reajusteSalarial\\reajusteSalarial.csproj|solutionrelative:reajustesalarial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\reajusteSalarial\\reajusteSalarial\\Form1.cs",
+              "RelativeDocumentMoniker": "reajusteSalarial\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\reajusteSalarial\\reajusteSalarial\\Form1.cs",
+              "RelativeToolTip": "reajusteSalarial\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:16:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\reajusteSalarial\\reajusteSalarial\\Form1.cs",
+              "RelativeDocumentMoniker": "reajusteSalarial\\Form1.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\reajusteSalarial\\reajusteSalarial\\Form1.cs [Design]",
+              "RelativeToolTip": "reajusteSalarial\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:14:29.679Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AULAS\\2ANO\\DS\\IdadeEmDias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{678F6239-FDCE-49CE-B6EB-D5664C246457}|IdadeEmDias\\IdadeEmDias.csproj|e:\\aulas\\2ano\\ds\\idadeemdias\\idadeemdias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678F6239-FDCE-49CE-B6EB-D5664C246457}|IdadeEmDias\\IdadeEmDias.csproj|solutionrelative:idadeemdias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AULAS\\2ANO\\DS\\IdadeEmDias\\IdadeEmDias\\Program.cs",
+              "RelativeDocumentMoniker": "IdadeEmDias\\Program.cs",
+              "ToolTip": "E:\\AULAS\\2ANO\\DS\\IdadeEmDias\\IdadeEmDias\\Program.cs",
+              "RelativeToolTip": "IdadeEmDias\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:39:15.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

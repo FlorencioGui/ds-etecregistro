@@ -1,0 +1,11 @@
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\bin\Debug\exemplo_decisao.exe.config
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\bin\Debug\exemplo_decisao.exe
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\bin\Debug\exemplo_decisao.pdb
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\obj\Debug\exemplo_decisao.csproj.AssemblyReference.cache
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\obj\Debug\exemplo_decisao.Form1.resources
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\obj\Debug\exemplo_decisao.Properties.Resources.resources
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\obj\Debug\exemplo_decisao.csproj.GenerateResource.cache
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\obj\Debug\exemplo_decisao.csproj.CoreCompileInputs.cache
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\obj\Debug\exemplo_decisao.exe
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\obj\Debug\exemplo_decisao.pdb
+E:\AULAS\2ANO\DS\exemplo_decisao\exemplo_decisao\obj\Debug\exemplo_decisao.exe.config
