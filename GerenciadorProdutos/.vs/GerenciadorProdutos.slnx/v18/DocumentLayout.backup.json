@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|d:\\aulas\\2ano\\ds\\gerenciadorprodutos\\gerenciadorprodutos\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|d:\\aulas\\2ano\\ds\\gerenciadorprodutos\\gerenciadorprodutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|solutionrelative:gerenciadorprodutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\gerenciadorprodutos\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|solutionrelative:gerenciadorprodutos\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\gerenciadorprodutos\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|solutionrelative:gerenciadorprodutos\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\gerenciadorprodutos\\produtodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|solutionrelative:gerenciadorprodutos\\produtodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\gerenciadorprodutos\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|solutionrelative:gerenciadorprodutos\\produtofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|d:\\aulas\\2ano\\ds\\gerenciadorprodutos\\gerenciadorprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\gerenciadorprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|solutionrelative:gerenciadorprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|d:\\aulas\\2ano\\ds\\gerenciadorprodutos\\gerenciadorprodutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E1487DE3-40E0-4FB4-A91E-993ADC557ACB}|GerenciadorProdutos\\GerenciadorProdutos.csproj|solutionrelative:gerenciadorprodutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +46,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ProdutoDAO.cs",
+              "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\ProdutoDAO.cs",
+              "RelativeDocumentMoniker": "GerenciadorProdutos\\ProdutoDAO.cs",
+              "ToolTip": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\ProdutoDAO.cs",
+              "RelativeToolTip": "GerenciadorProdutos\\ProdutoDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T18:18:09.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "GerenciadorProdutos\\ConexaoBD.cs",
+              "ToolTip": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\ConexaoBD.cs",
+              "RelativeToolTip": "GerenciadorProdutos\\ConexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T18:06:52.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoDigital.cs",
+              "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\ProdutoDigital.cs",
+              "RelativeDocumentMoniker": "GerenciadorProdutos\\ProdutoDigital.cs",
+              "ToolTip": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\ProdutoDigital.cs",
+              "RelativeToolTip": "GerenciadorProdutos\\ProdutoDigital.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:09:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProdutoFisico.cs",
               "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\ProdutoFisico.cs",
               "RelativeDocumentMoniker": "GerenciadorProdutos\\ProdutoFisico.cs",
@@ -42,12 +90,11 @@
               "RelativeToolTip": "GerenciadorProdutos\\ProdutoFisico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T14:00:28.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T14:00:28.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Produto.cs",
               "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\Produto.cs",
               "RelativeDocumentMoniker": "GerenciadorProdutos\\Produto.cs",
@@ -55,12 +102,11 @@
               "RelativeToolTip": "GerenciadorProdutos\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T13:38:17.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T13:38:17.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\AULAS\\2ANO\\DS\\GerenciadorProdutos\\GerenciadorProdutos\\Form1.cs",
               "RelativeDocumentMoniker": "GerenciadorProdutos\\Form1.cs",
