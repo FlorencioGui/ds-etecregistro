@@ -42,15 +42,6 @@
             txtPrecoBase = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(15, 41);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(41, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Nome: ";
-            // 
             // txtNome
             // 
             txtNome.Location = new System.Drawing.Point(15, 57);
@@ -64,6 +55,15 @@
             txtPrecoBase.Name = "txtPrecoBase";
             txtPrecoBase.Size = new System.Drawing.Size(100, 20);
             txtPrecoBase.TabIndex = 3;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(15, 41);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(41, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Nome: ";
             // 
             // label2
             // 
@@ -127,6 +127,7 @@
             this.btnSalvar.TabIndex = 9;
             this.btnSalvar.Text = "Salvar";
             this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
             // 
             // Form1
             // 
@@ -161,6 +162,8 @@
         private System.Windows.Forms.TextBox txtAtributoEspecifico;
         private System.Windows.Forms.Label lblAtributo;
         private System.Windows.Forms.Button btnSalvar;
+        private System.Windows.Forms.TextBox txtNome;
+        private System.Windows.Forms.TextBox txtPrecoBase;
     }
 }
 

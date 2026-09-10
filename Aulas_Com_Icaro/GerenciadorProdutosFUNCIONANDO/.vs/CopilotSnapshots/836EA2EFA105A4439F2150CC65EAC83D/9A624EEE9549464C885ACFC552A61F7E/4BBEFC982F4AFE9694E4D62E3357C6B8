@@ -66,14 +66,5 @@ namespace GerenciadorProdutos
             cmbTipo.SelectedIndex = 0;
             txtNome.Focus();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            // Garante estado inicial caso o designer não tenha definido
-            if (cmbTipo.Items.Count > 0 && cmbTipo.SelectedIndex < 0)
-            {
-                cmbTipo.SelectedIndex = 0;
-            }
-        }
     }
 }
