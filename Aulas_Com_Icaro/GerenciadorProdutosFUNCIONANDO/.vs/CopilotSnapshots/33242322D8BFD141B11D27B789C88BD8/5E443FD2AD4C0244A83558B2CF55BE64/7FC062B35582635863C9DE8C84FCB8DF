@@ -1,0 +1,42 @@
+﻿using MySql.Data.MySqlClient;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GerenciadorProdutos
+{
+    public class ProdutoDAO
+    {
+        private MySqlConnection conn;
+
+        public ProdutoDAO()
+        {
+            conn = ConexaoDB.GetConnection();
+        }
+
+        public void Inserir(Produto produto)
+        {
+            try
+            {
+                conn.Open();
+
+                string sql = "INSERT INTO produtos (nome, precoBase, tipo, atributo) VALUES (@nome, @precoBase, @tipo, @atributo)";
+
+                MySqlCommand cmd = new MySqlCommand(sql, conn);
+                cmd.Parameters.AddWithValue("@nome", produto.Nome);
+                cmd.Parameters.AddWithValue("@precoBase", produto.PrecoBase);
+                // Usa método da classe para obter representação legível do tipo
+                cmd.Parameters.AddWithValue("@tipo", produto.TipoLegivel());
+                cmd.Parameters.AddWithValue("@atributo", produto.Atributo); // propriedade comum
+
+                cmd.ExecuteNonQuery();
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+    }
+}

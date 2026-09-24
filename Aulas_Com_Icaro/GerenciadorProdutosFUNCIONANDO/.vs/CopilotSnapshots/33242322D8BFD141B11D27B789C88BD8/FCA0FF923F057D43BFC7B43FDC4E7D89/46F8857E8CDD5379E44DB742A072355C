@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing.Printing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GerenciadorProdutos
+{
+    public class ProdutoFisico : Produto
+    {
+        public ProdutoFisico(string nome, decimal precoBase, double peso)
+            : base(nome, precoBase, peso)
+        {
+        }
+
+        public override string TipoLegivel()
+        {
+            return "Físico";
+        }
+    }
+}

@@ -1,0 +1,15 @@
+﻿using System;
+using MySql.Data.MySqlClient;
+
+namespace GerenciadorProdutos
+{
+    public static class ConexaoDB
+    {
+        public static MySqlConnection GetConnection()
+        {
+            // Ajuste de string de conexão conforme App.config
+            string connStr = "server=localhost;user=root;database=meubanco;port=3306;password=senha";
+            return new MySqlConnection(connStr);
+        }
+    }
+}
